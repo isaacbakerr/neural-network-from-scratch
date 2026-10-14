@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Downloadable datasets
+mnist.npz
+
+# Generated outputs
+*.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
